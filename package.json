@@ -1,0 +1,24 @@
+{
+  "name": "recharts-nextjs",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "@types/react": "17.0.3",
+    "autoprefixer": "10.2.5",
+    "next": "latest",
+    "postcss": "8.2.9",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "recharts": "2.0.9",
+    "tailwindcss": "2.1.1",
+    "typescript": "4.2.3"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": ""
+}
